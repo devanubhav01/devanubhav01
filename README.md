@@ -1,396 +1,333 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Anubhav%20Dev&fontSize=60&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:3b0764,50:5b21b6,75:6d28d9,100:8b5cf6&height=220&section=header&text=ANUBHAV&fontSize=70&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
 
-<br/>
-
-<a href="https://github.com/devanubhav01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+Developer+%7C+Product+Builder;Turning+Ideas+Into+Scalable+Systems;Always+Shipping.+Always+Learning." alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Building+Axiora+%E2%80%94+AI-Powered+Resume+%26+Portfolio+Platform;First-Year+CSE+%40+NIET+%7C+2025+-+2029;DSA+in+Java+%7C+Striver's+Sheet+%7C+Next.js+%7C+MongoDB;Turning+Ideas+Into+Production-Grade+Software" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=studyverse&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/devanubhav01"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-6d28d9?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a0b2e" />
+<img src="https://img.shields.io/badge/NIET-2025--2029-8b5cf6?style=for-the-badge&logo=studyverse&logoColor=white&labelColor=1a0b2e" />
+<img src="https://img.shields.io/badge/Location-Ghaziabad%2C%20India-a855f7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a0b2e" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=devanubhav01&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/devanubhav01?label=Followers&style=for-the-badge&color=8b5cf6&logo=github" />
-<img src="https://img.shields.io/github/stars/devanubhav01?label=Stars&style=for-the-badge&color=a78bfa&logo=github" />
+<a href="https://axiora-five.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Axiora-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e" /></a>
+<a href="https://linkedin.com/in/devanubhav01"><img src="https://img.shields.io/badge/LinkedIn-Connect-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e" /></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-9333ea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" /></a>
+<a href="https://github.com/devanubhav01"><img src="https://img.shields.io/badge/GitHub-devanubhav01-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=devanubhav01&style=for-the-badge&color=a855f7&labelColor=1a0b2e" />
+<img src="https://img.shields.io/github/followers/devanubhav01?style=for-the-badge&color=8b5cf6&labelColor=1a0b2e&label=Followers" />
+<img src="https://img.shields.io/github/stars/devanubhav01?style=for-the-badge&color=6d28d9&labelColor=1a0b2e&label=Stars" />
 
 </div>
 
 <br/>
 
----
+## &nbsp;&nbsp;🟣&nbsp; About Me
 
-<div align="center">
-
-<h3><code>$ cat contributions.log</code></h3>
-
-<img src="./graph.svg" width="820" />
-
-<br><br>
-
-<h3><code>$ whoami --verbose</code></h3>
-
-<table>
-  <tr>
-    <td valign="top"><img src="./portrait.svg" width="360" /></td>
-    <td valign="top"><img src="./sysinfo.svg" width="460" /></td>
-  </tr>
-</table>
-
-<br><br>
-
-<sub>graph auto-refreshes daily via GitHub Actions</sub>
-
-</div>
-
-<br/>
-
----
-
-## 🪶 About Me
+<img align="right" width="280" src="https://raw.githubusercontent.com/devanubhav01/devanubhav01/main/assets/purple-line.svg" />
 
 ```yaml
-name: "Anubhav"
-role: "Software Engineer · AI/ML Engineer · Full Stack Developer"
+name: Anubhav
+role: Software Engineer in the Making
+education: B.Tech CSE, Noida Institute of Engineering and Technology (2025 - 2029)
 focus:
-  - Building scalable, production-grade software systems
-  - Designing and deploying AI/ML powered applications
-  - End-to-end product engineering — from architecture to deployment
-  - Writing clean, maintainable, and well-tested code
-philosophy: "Engineering is not just about writing code — it's about solving real problems at scale."
+  - Full Stack Development (Next.js, MongoDB, Tailwind CSS)
+  - AI / ML Integration into Product Engineering
+  - Data Structures & Algorithms (Java, Striver's Sheet)
+mindset: Ship real products, not just tutorials
 ```
 
-I'm a software engineer with a strong foundation in **computer science fundamentals**, **AI/ML systems**, and **full stack development**. I enjoy working across the entire product lifecycle — from designing system architecture to shipping polished, user-facing features. My work blends **engineering rigor** with a **product mindset**, focused on building software that is scalable, reliable, and genuinely useful.
+I'm a first-year Computer Science Engineering student who builds full production
+systems rather than isolated demos. My flagship project, **Axiora**, is a live,
+deployed AI-powered resume and portfolio builder — complete with real phone-OTP
+authentication, payment integration, and cloud deployment — built while still in
+my first year of college. I pair that product-engineering instinct with a
+disciplined, daily grind on data structures and algorithms, working through
+Striver's Sheet in Java to build strong problem-solving fundamentals alongside
+the ability to actually ship software.
 
-<table align="center">
-<tr>
-<td>
-
-**🎯 Open To**
-- Software Engineering roles (SDE / Full Stack)
-- AI/ML Engineering opportunities
-- Backend & Systems Engineering
-- Open Source Collaboration
-- Freelance / Contract Engineering Work
-
-</td>
-</tr>
-</table>
+**🎯 Open To:** Internship opportunities in Full Stack / AI Engineering · Open
+source collaboration · Freelance product builds · Technical mentorship exchanges
 
 <br/>
 
----
-
-## 🧬 Tech Stack
+## &nbsp;&nbsp;🟣&nbsp; Tech Stack
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,c,python,html,css&theme=dark" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,github,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel,azure,git,github,linux,vscode,postman,figma&theme=dark" />
 
 </div>
 
 <br/>
 
----
-
-## 🤖 AI / ML Expertise
+## &nbsp;&nbsp;🟣&nbsp; AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, scikit-learn |
-| **Deep Learning** | ⭐⭐⭐⭐☆ | Neural networks, CNNs, RNNs using PyTorch & TensorFlow |
-| **NLP** | ⭐⭐⭐⭐☆ | Transformers, embeddings, text classification, LLM integration |
-| **LLM / GenAI Engineering** | ⭐⭐⭐⭐⭐ | Prompt engineering, RAG pipelines, LangChain, vector databases |
-| **MLOps** | ⭐⭐⭐☆☆ | Model deployment, versioning, monitoring pipelines |
-| **Data Engineering** | ⭐⭐⭐⭐☆ | ETL pipelines, data preprocessing, Pandas, NumPy |
+| Generative AI Concepts | `Intermediate` | Completed Tata GenAI Powered Data Analytics simulation (Forage) |
+| AI Product Integration | `Intermediate` | Integrated AI-assisted content generation into Axiora's resume builder |
+| Microsoft AI Fundamentals | `Foundational` | Completed Microsoft AI Concepts coursework |
+| Applied ML via Infosys Springboard | `Foundational` | Coursework in applied AI/ML fundamentals |
+| Prompt Engineering | `Practicing` | Actively designing prompts for AI-assisted developer workflows |
 
 </div>
 
 <br/>
 
----
+## &nbsp;&nbsp;🟣&nbsp; Featured Projects
 
-## 🚀 Featured Projects
-
-<details>
-<summary><b>🔹 Project One — AI-Powered Platform</b></summary>
+<details open>
+<summary><b>🔮 Axiora — AI-Powered Resume & Portfolio Platform</b></summary>
 <br/>
 
-An intelligent platform leveraging LLMs and RAG pipelines to deliver context-aware responses at scale, built with a modern full stack architecture.
+Axiora is a full-stack, production-deployed platform that lets users build
+AI-assisted resumes and personal portfolios in one place. It went through real
+engineering hurdles — from swapping a mock OTP flow for genuine Firebase Phone
+Authentication, to solving Vercel's read-only filesystem for PDF generation, to
+correctly wiring OAuth redirect URIs for Google and GitHub — all resolved and
+shipped to production.
 
-| Aspect | Details |
+| Category | Details |
 |---|---|
-| **Stack** | React, Node.js, FastAPI, PostgreSQL, LangChain |
-| **Scale** | Handles concurrent multi-user sessions |
-| **Performance** | Sub-second response latency with caching layer |
-| **Security** | JWT auth, rate limiting, input sanitization |
-| **Impact** | Streamlined workflow, reduced manual effort significantly |
-| **Repository** | [View Repo](https://github.com/devanubhav01) |
+| **Stack** | Next.js (App Router), MongoDB, Tailwind CSS, NextAuth.js, Firebase Auth |
+| **Scale** | Full-stack app with auth, payments, and dynamic PDF generation |
+| **Performance** | Deployed on Vercel with environment-aware config for local + production |
+| **Security** | Real OTP-based Phone Authentication, OAuth (Google/GitHub), env-secured credentials |
+| **Impact** | Live, publicly usable resume-building product — not a tutorial clone |
+| **Repository** | [github.com/devanubhav01/axiora](https://github.com/devanubhav01) |
 
-Architected with a modular microservice-inspired backend, this project focuses on clean API design, efficient vector search retrieval, and a responsive frontend experience.
+**Engineering highlights:** replaced a mock authentication system with real
+Firebase Phone OTP (including resolving India `+91` SMS region policy issues),
+fixed a PDF-download 404 caused by Vercel's read-only filesystem by redirecting
+generation to a writable temp path, corrected OAuth redirect URI mismatches,
+resolved Razorpay route errors, and whitelisted MongoDB Atlas for dynamic build
+server IPs.
 
 </details>
 
 <details>
-<summary><b>🔹 Project Two — Full Stack Web Application</b></summary>
+<summary><b>🔠 Word Hunter: Hangman Adventure</b></summary>
 <br/>
 
-A production-ready full stack application demonstrating end-to-end engineering — from database schema design to deployment.
+A C-based word guessing game built as a group project, engineered with core
+programming logic, game-state management, and a clean gameplay loop —
+presented with a full technical walkthrough and slide deck for evaluation.
 
-| Aspect | Details |
+| Category | Details |
 |---|---|
-| **Stack** | Next.js, Express, MongoDB, Docker |
-| **Scale** | Designed for horizontal scalability |
-| **Performance** | Optimized queries, lazy loading, CDN-backed assets |
-| **Security** | OAuth2, encrypted data storage, RBAC |
-| **Impact** | Improved user engagement and system reliability |
-| **Repository** | [View Repo](https://github.com/devanubhav01) |
-
-Built with a strong emphasis on clean architecture, testing, and CI/CD automation for reliable, repeatable deployments.
-
-</details>
-
-<details>
-<summary><b>🔹 Project Three — ML Analytics Engine</b></summary>
-<br/>
-
-A data-driven analytics engine that ingests, processes, and models large datasets to surface actionable insights.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | Python, Pandas, scikit-learn, PostgreSQL |
-| **Scale** | Processes large batch datasets efficiently |
-| **Performance** | Optimized pipeline reducing processing time |
-| **Security** | Role-based data access controls |
-| **Impact** | Enabled data-backed decision making |
-| **Repository** | [View Repo](https://github.com/devanubhav01) |
-
-Focused on building reliable data pipelines and interpretable models suited for real-world decision support.
+| **Stack** | C |
+| **Scale** | Console-based game with structured logic modules |
+| **Performance** | Efficient state handling for word tracking and guess validation |
+| **Security** | Input validation and boundary handling |
+| **Impact** | Delivered as a complete, presentable academic product with team collaboration |
+| **Repository** | *Available on request* |
 
 </details>
 
 <br/>
 
----
+## &nbsp;&nbsp;🟣&nbsp; Experience
 
-## 💼 Experience
+**MERN Full Stack Development Intern** · Skill Nexis
+`6-Month Internship`
 
-### **Software Engineer** · Company Name
-`Month Year — Present`
+Hands-on internship focused on the MongoDB, Express, React, Node.js stack,
+translating classroom fundamentals into real application development
+practices.
 
-Contributing to the design, development, and deployment of scalable software systems in a collaborative engineering environment.
+- Built and debugged full-stack features across frontend and backend layers
+- Practiced REST API design and integration with MongoDB
+- Collaborated within a structured development workflow
 
-- Designed and implemented backend services and APIs powering core product features
-- Collaborated cross-functionally with product and design teams to ship features end-to-end
-- Optimized system performance and improved reliability of production services
-- Participated in code reviews, technical design discussions, and mentorship
-
-**Skills:** `Python` `React` `Node.js` `AWS` `Docker` `PostgreSQL`
-
-<br/>
-
-### **Software Engineering Intern** · Company Name
-`Month Year — Month Year`
-
-Worked on building and testing key modules within a fast-paced engineering team.
-
-- Built internal tools to streamline development workflows
-- Contributed to unit and integration testing, improving code coverage
-- Assisted in migrating legacy systems to modern architecture
-
-**Skills:** `JavaScript` `Express` `MongoDB` `Git`
+`MongoDB` `Express.js` `React` `Node.js` `Full Stack`
 
 <br/>
 
----
+**Job Simulation — GenAI Powered Data Analytics** · Tata (via Forage)
 
-## 🏆 Achievements
+Completed a virtual job simulation applying generative AI concepts to
+data analytics workflows.
+
+`Generative AI` `Data Analytics`
+
+<br/>
+
+**Job Simulation — Cybersecurity** · Deloitte (via Forage)
+
+Completed a virtual job simulation covering cybersecurity fundamentals and
+incident-response thinking.
+
+`Cybersecurity` `Risk Analysis`
+
+<br/>
+
+## &nbsp;&nbsp;🟣&nbsp; Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🥇 Hackathon Winner | Recognized for building an innovative full stack solution under time constraints |
-| 🎓 Academic Excellence | Consistent top academic performance in Computer Science coursework |
-| 💡 Open Source Contributor | Active contributions to open source repositories on GitHub |
-| 📜 Technical Publication / Blog | Authored technical articles on AI/ML and software engineering topics |
+| 🚀 Shipped Axiora to Production | Fully deployed AI resume platform with real auth & payments — in Year 1 of college |
+| 🧩 Consistent DSA Practice | Actively solving structured problems via Striver's Sheet in Java |
+| 🎓 Multiple Industry Simulations | Completed Forage simulations with Tata (GenAI) and Deloitte (Cybersecurity) |
+| 🛠️ Full Dev Environment Mastery | Set up and operate a complete WSL (Ubuntu) Linux dev environment |
 
 </div>
 
 <br/>
 
----
-
-## 📜 Certifications
+## &nbsp;&nbsp;🟣&nbsp; Certifications
 
 <div align="center">
 
-**AWS**
+**Microsoft**
 
-<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Microsoft-AI%20Concepts-6d28d9?style=flat-square&logo=microsoft&logoColor=white&labelColor=1a0b2e" />
 
-**Oracle**
+**Infosys Springboard**
 
-<img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Infosys%20Springboard-Applied%20AI%2FML-7c3aed?style=flat-square&logo=infosys&logoColor=white&labelColor=1a0b2e" />
 
-**NPTEL**
+**Forage (Virtual Job Simulations)**
 
-<img src="https://img.shields.io/badge/NPTEL%20Certified-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white" />
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco%20Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Tata-GenAI%20Powered%20Data%20Analytics-8b5cf6?style=flat-square&logo=forage&logoColor=white&labelColor=1a0b2e" />
+<img src="https://img.shields.io/badge/Deloitte-Cybersecurity-9333ea?style=flat-square&logo=forage&logoColor=white&labelColor=1a0b2e" />
 
 </div>
 
 <br/>
 
----
-
-## 🧠 Coding Profiles
+## &nbsp;&nbsp;🟣&nbsp; Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/devanubhav01"><img src="https://img.shields.io/badge/LeetCode-2E2E2E?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-<a href="https://geeksforgeeks.org/user/devanubhav01"><img src="https://img.shields.io/badge/GeeksforGeeks-2E2E2E?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
-<a href="https://hackerrank.com/devanubhav01"><img src="https://img.shields.io/badge/HackerRank-2E2E2E?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /></a>
-<a href="https://codechef.com/users/devanubhav01"><img src="https://img.shields.io/badge/CodeChef-2E2E2E?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
+<a href="https://leetcode.com/devanubhav01">
+<img src="https://img.shields.io/badge/LeetCode-devanubhav01-6d28d9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0b2e" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/devanubhav01">
+<img src="https://img.shields.io/badge/GeeksforGeeks-devanubhav01-8b5cf6?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0b2e" />
+</a>
+<a href="https://www.hackerrank.com/devanubhav01">
+<img src="https://img.shields.io/badge/HackerRank-Profile-7c3aed?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a0b2e" />
+</a>
+<a href="https://www.codechef.com/users/devanubhav01">
+<img src="https://img.shields.io/badge/CodeChef-Profile-a855f7?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a0b2e" />
+</a>
 
 </div>
 
 <br/>
 
----
-
-## 📊 GitHub Analytics
+## &nbsp;&nbsp;🟣&nbsp; GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devanubhav01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devanubhav01&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devanubhav01&show_icons=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=a855f7&text_color=c9d1d9&icon_color=8b5cf6" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=devanubhav01&hide_border=true&background=0D0221&stroke=6d28d9&ring=8b5cf6&fire=a855f7&currStreakLabel=a855f7" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanubhav01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanubhav01&layout=compact&hide_border=true&bg_color=0d0221&title_color=a855f7&text_color=c9d1d9" />
 
 </div>
 
 <br/>
 
----
-
-## 🏅 GitHub Trophies
+## &nbsp;&nbsp;🟣&nbsp; GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=devanubhav01&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=devanubhav01&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
 </div>
 
 <br/>
 
----
-
-## 📈 Contribution Activity
+## &nbsp;&nbsp;🟣&nbsp; Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devanubhav01&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9A9FF" width="95%" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=devanubhav01&theme=react-dark&bg_color=0d0221&color=a855f7&line=8b5cf6&point=e9d5ff&area=true&hide_border=true" />
 
 </div>
 
 <br/>
 
----
-
-## 🐍 Contribution Snake
+## &nbsp;&nbsp;🟣&nbsp; Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devanubhav01/devanubhav01/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/devanubhav01/devanubhav01/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 <br/>
 
----
-
-## 🎯 Current Focus
+## &nbsp;&nbsp;🟣&nbsp; Current Focus
 
 ```yaml
-Learning:
-  - Advanced system design & distributed architectures
-  - LLM fine-tuning and evaluation techniques
-  - Cloud-native application development
+learning:
+  - Advanced Data Structures & Algorithms (Java)
+  - System Design Fundamentals
+  - Deeper AI/ML integration into full-stack products
 
-Building:
-  - AI-powered developer tools
-  - Scalable full stack applications
-  - Personal open source projects
+building:
+  - Axiora v2 — AI resume builder feature expansion
+  - Personal GitHub portfolio & open-source contributions
 
-Exploring:
-  - Retrieval-Augmented Generation (RAG) systems
-  - Agentic AI workflows
-  - Modern DevOps practices
+exploring:
+  - Cloud-native deployment patterns (Vercel, Azure)
+  - Prompt engineering for developer tooling
 
-Open To:
-  - Full-time Software Engineering / AI Engineering roles
-  - Open source collaboration
-  - Technical discussions and knowledge sharing
+open_to:
+  - Software Engineering Internships
+  - AI/ML focused collaborations
+  - Open source contributions
 ```
 
 <br/>
 
----
-
-## 🔗 Connect With Me
+## &nbsp;&nbsp;🟣&nbsp; Connect With Me
 
 <div align="center">
 
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/devanubhav01"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-your.email%40gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" /></a>
+<a href="https://linkedin.com/in/devanubhav01"><img src="https://img.shields.io/badge/LinkedIn-devanubhav01-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e" /></a>
+<a href="https://github.com/devanubhav01"><img src="https://img.shields.io/badge/GitHub-devanubhav01-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e" /></a>
+<a href="https://axiora-five.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Axiora-a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e" /></a>
 
 </div>
 
 <br/>
 
----
-
 <div align="center">
 
-*"Code is the closest thing we have to magic — write it with intention."*
+*"Build in year one what most people wait four years to attempt."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,25:6d28d9,50:5b21b6,75:3b0764,100:0d0221&height=150&section=footer" />
 
 </div>
