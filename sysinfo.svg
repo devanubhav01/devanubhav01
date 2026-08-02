@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="270" viewBox="0 0 460 270">
+<defs>
+<style>
+.label { font-family: "Courier New", monospace; font-size: 14px; fill: #8b5cf6; font-weight: bold; }
+.value { font-family: "Courier New", monospace; font-size: 14px; fill: #c9d1d9; }
+.prompt { font-family: "Courier New", monospace; font-size: 13px; fill: #6e7681; }
+</style>
+</defs>
+<rect width="460" height="270" rx="10" ry="10" fill="#0d1117"/>
+<rect width="460" height="34" rx="10" ry="10" fill="#161b22"/>
+<rect y="20" width="460" height="14" fill="#161b22"/>
+<circle cx="20" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="17" r="6" fill="#27c93f"/>
+<text x="230" y="21" text-anchor="middle" class="prompt">sysinfo.sh</text>
+<text x="24" y="66" class="prompt">$ ./sysinfo --verbose</text>
+<g opacity="0">
+<text x="24" y="102" class="label">role</text>
+<text x="120" y="102" class="value">Software Engineer</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.4s" fill="freeze"/>
+</g>
+<g opacity="0">
+<text x="24" y="134" class="label">focus</text>
+<text x="120" y="134" class="value">AI / ML &amp; Full Stack Dev</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.70s" dur="0.4s" fill="freeze"/>
+</g>
+<g opacity="0">
+<text x="24" y="166" class="label">stack</text>
+<text x="120" y="166" class="value">Python · React · AWS</text>
+<animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.4s" fill="freeze"/>
+</g>
+<g opacity="0">
+<text x="24" y="198" class="label">now</text>
+<text x="120" y="198" class="value">Building AI-powered systems</text>
+<animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.4s" fill="freeze"/>
+</g>
+<g opacity="0">
+<text x="24" y="230" class="label">learning</text>
+<text x="120" y="230" class="value">System Design · LLM tuning</text>
+<animate attributeName="opacity" from="0" to="1" begin="2.20s" dur="0.4s" fill="freeze"/>
+</g>
+<g opacity="0">
+<text x="24" y="262" class="label">ping</text>
+<text x="120" y="262" class="value">devanubhav01@github</text>
+<animate attributeName="opacity" from="0" to="1" begin="2.70s" dur="0.4s" fill="freeze"/>
+</g>
+<rect x="24" y="270" width="9" height="14" fill="#8b5cf6">
+<animate attributeName="opacity" values="1;0;1" dur="1s" begin="3.60s" repeatCount="indefinite"/>
+</rect>
+</svg>
