@@ -308,7 +308,7 @@ incident-response thinking.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devanubhav01/devanubhav01/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/devanubhav01/devanubhav01/output/github-contribution-grid-snake-dark.svg?v=1" width="95%" />
 
 <br/>
 
