@@ -3,6 +3,9 @@ Pulls the public contribution calendar HTML fragment GitHub serves for a
 profile page (no OAuth / token required) and saves the parsed daily
 counts, plus a few derived stats, as JSON.
 
+Uses only httpx + the standard library (re) — no lxml/BeautifulSoup, so
+there's nothing here that needs a C++ compiler to install on Windows.
+
 Usage:
     python tools/pull_contributions.py
     # writes assets/contributions.json
@@ -10,42 +13,34 @@ Usage:
 
 import json
 import os
+import re
 from datetime import datetime
 from pathlib import Path
 
 import httpx
-from lxml import html
 
 USERNAME = os.environ.get("GITHUB_USERNAME", "devanubhav01")
 URL = f"https://github.com/users/{USERNAME}/contributions"
 OUTPUT_PATH = Path("assets/contributions.json")
 
+TD_TAG_RE = re.compile(r"<td\b[^>]*>", re.IGNORECASE)
+DATE_ATTR_RE = re.compile(r'data-date="([\d-]+)"')
+LEVEL_ATTR_RE = re.compile(r'data-level="(\d+)"')
+
 
 def fetch_contributions() -> list[dict]:
     resp = httpx.get(URL, timeout=20, headers={"User-Agent": "profile-readme-bot"})
     resp.raise_for_status()
-    tree = html.fromstring(resp.text)
+    html_text = resp.text
 
     days = []
-    # GitHub renders each day as a <td> with a data-date and either a
-    # data-level attribute or an aria-label containing the count.
-    cells = tree.xpath('//td[@data-date]')
-    for cell in cells:
-        date_str = cell.get("data-date")
-        level = cell.get("data-level")
-        if level is None:
-            # older markup fallback: derive level from class name
-            css_class = cell.get("class", "")
-            level = next(
-                (c.replace("day-", "") for c in css_class.split() if c.startswith("day-")),
-                "0",
-            )
-        try:
-            level_int = int(level)
-        except (TypeError, ValueError):
-            level_int = 0
-
-        days.append({"date": date_str, "level": level_int})
+    for tag in TD_TAG_RE.findall(html_text):
+        date_match = DATE_ATTR_RE.search(tag)
+        if not date_match:
+            continue
+        level_match = LEVEL_ATTR_RE.search(tag)
+        level = int(level_match.group(1)) if level_match else 0
+        days.append({"date": date_match.group(1), "level": level})
 
     return days
 
@@ -83,29 +78,3 @@ def compute_stats(days: list[dict]) -> dict:
         "busiest_day": busiest_day,
         "total_active_days": sum(1 for d in days_sorted if d["level"] > 0),
     }
-
-
-def main():
-    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-
-    print(f"Fetching contributions for {USERNAME}...")
-    days = fetch_contributions()
-
-    if not days:
-        print("No contribution cells found — GitHub markup may have changed.")
-
-    stats = compute_stats(days)
-
-    payload = {
-        "username": USERNAME,
-        "generated_at": datetime.utcnow().isoformat() + "Z",
-        "days": days,
-        "stats": stats,
-    }
-
-    OUTPUT_PATH.write_text(json.dumps(payload, indent=2), encoding="utf-8")
-    print(f"Saved: {OUTPUT_PATH} ({len(days)} days)")
-
-
-if __name__ == "__main__":
-    main()
