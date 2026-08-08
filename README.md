@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e2761,100:24243e&height=280&section=header&text=Anubhav%20Singh&fontSize=58&fontColor=A5B4FC&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
 
@@ -426,4 +426,4 @@ Open To:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:1e2761,100:0f0c29&height=150&section=footer" width="100%"/>
 
-</div> 
+</div>  -->
